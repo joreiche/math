@@ -1,3 +1,3 @@
-module github.com/TheAlgorithms/Go
+module github.com/joreiche/math
 
 go 1.19
